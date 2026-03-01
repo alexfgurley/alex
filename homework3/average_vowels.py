@@ -36,30 +36,6 @@ print(counting_vowels_and_consonants("hell yea!"))
 #   - Return a tuple: (number of sentences, average vowels per sentence, average consonants per sentence)
 # Name this function: average_vowels_and_consonants()
 
-# def average_vowels_and_consonants(str) :
-#     num_vowels = 0
-#     num_consonants = 0
-#     num_sentences = 0 
-#     vowels = "aeiou"
-#     consonants = "bcdfghjklmnpqrstvwxyz"
-
-#     str == str.lower()
-
-#     for x in str : 
-#         if x in vowels : 
-#             num_vowels += 1 
-#         elif x in consonants : 
-#             num_consonants += 1 
-#         elif x == "." : 
-#             num_sentences += 1 
-#     if num_sentences == 0 : 
-#         return(0,num_vowels, num_consonants)
-    
-#     average_vowels = num_vowels / num_sentences 
-#     average_consonants = num_consonants / num_sentences
-    
-#     return (num_sentences, average_vowels, average_consonants)
-
 def average_vowels_and_consonants(p) : 
     num_vowels = 0 
     num_consonants = 0 
