@@ -1,0 +1,20 @@
+1. 5 Topics 
+	Some topics that I am interested in are blackholes, mathematical models such as algorithms for finding most efficient path occurs a graph, additionally I am interested in physics topics like the electric field or the gravitational field. Lastly, some miscellaneous topics would be things like AI/ML because of its use/applications of linear algebra.
+
+2. Data about 3 topics
+	a. AI/ML 
+		The source I found is titled "What is Linear Algebra for Machine Learning" by IBM
+		The source describes how we impletment linear algebra concepts to manipulate data and create algorthims. for example, we use vectors to represent different types of data, and use things like scalar multiplcation and vector addition to combine data points or compare data points. 
+	b. Blackholes 
+		The formation of black holes occurs when a massive star runs out of hydrogen, which is the source of fuel it uses to burn. When it collapses it leaves behind a small, dense peice of mass such that the gravitational field around the mass is such that nothing can resist it, not even light. We can find a dataset that compares a stars mass to the size of the black hole that would be created when it collapses. The Nasa JPL has an article that depicts the size of stars compared to their black holes. for example we see that if the mass of a star is less than 10 times that of our sun it will not actually form a black hole. However, if the mass is that of 100,000 times our sun then it will collapse into a supermassive black hole. 
+		Source - Nasa JPL mass --> blackhole dataset article
+
+	c. Mathematical models
+		Dijkstra's algorithm is an algorithm for finding the most efficient path across a graph using as little vertices as possible. It works by starting at a starting vertex and measuring the distance between that start and all other unknown vertices that surround that vertex. It repeats this process for all vertices and is able to find the shortest path to each unkown vertex given a starting vertex. 
+		- source: RSA Dijkstra's algorithm 
+
+3. How can we use python to execute a certain topic 
+	We can use lists and conditionals to model how particle behave under certain environments that would be created by a black hole, for example we can model particle movements over time by using a loop and measure how objects change in position overtime and modelling them, 
+
+4. Possible project ideas
+	Creating a extremely detailed simulation of a black hole where we can change mass/size and see a visual of how the black hole/gravitionall field is able to change. Ideally in a dream version we could create a full 3D model and see how different plants/stars would behave if they entered the gravitational field of the black hole but more realistically we would just create a very rudimentary simulation.  	 
